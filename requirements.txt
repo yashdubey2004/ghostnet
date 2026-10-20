@@ -7,3 +7,4 @@ networkx
 matplotlib
 plotly
 streamlit
+tabulate
